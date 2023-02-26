@@ -1,0 +1,110 @@
+.icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    padding: 1rem;
+    margin-left: 1000px;
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 1rem;
+  }
+  .social-icons a {
+    color: #040000;
+    font-size: 1.5rem;
+  } 
+  .social-icons{
+    margin-left: 240px;
+  } 
+  .off-canvas-bar {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    width: 80%;
+    height: 100%;
+    background-color: #f8f8f8;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  /*nav-bar left text*/
+  .navbar-text {
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: -90px;
+  }
+/*image and text1 */
+  .image-text-container {
+    position: relative;
+    width: 100%;
+  }
+  
+  .image-text-container img {
+    width: 100%;
+    height: 80%;
+  }
+  
+  .image-text-container p {
+    position: fixed;
+    top: 45%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 3rem;
+    z-index: 1;
+  }
+ 
+  .image-text-container {
+    position: relative;
+    width: 100%;
+  }
+  
+  .image {
+    height: 1400px;
+    width: inherit;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  
+  
+  .icon-row {
+    display: flex;
+    position:inherit;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .icon-text {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    font-size: 1.5rem;
+    color: white;
+  }
+  
+  .icon-text i {
+    font-size: 1rem;
+    margin-right: 10px;
+  }
+  
+  .icon-text p {
+    margin: 0;
+  }
+  
+  
+  .navbar-brand {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+ 
+  
