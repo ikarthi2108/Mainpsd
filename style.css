@@ -1,3 +1,4 @@
+
 .icons {
     display: flex;
     justify-content: space-between;
@@ -5,20 +6,31 @@
     padding: 1rem;
     margin-left: 1000px;
   }
+  .navbar {
+    background-image: url('assests/topbg.png');
+    background-size: cover; /* Adjust this to your liking */
+    background-position: center; /* Adjust this to your liking */
+    background-color: transparent;
+    padding-top: 20px; /* Adjust this to your liking */
+    padding-bottom: 20px; /* Adjust this to your liking */
+    margin-bottom: 0; /* Adjust this to your liking */
+    width: 100%;
+  }
+  
   
   .social-icons {
     display: flex;
     gap: 1rem;
   }
   .social-icons a {
-    color: #040000;
+    color: #f9f8f8;
     font-size: 1.5rem;
   } 
   .social-icons{
     margin-left: 240px;
   } 
   .off-canvas-bar {
-    position: fixed;
+    position: relative;
     top: 0;
     left: -100%;
     width: 80%;
@@ -51,9 +63,9 @@
   }
   
   .image-text-container p {
-    position: fixed;
-    top: 45%;
-    left: 25%;
+    position: relative;
+    top: -40%;
+    left: 54%;
     transform: translate(-50%, -50%);
     color: white;
     font-size: 3rem;
@@ -66,7 +78,7 @@
   }
   
   .image {
-    height: 1400px;
+    height: 900px;
     width: inherit;
     background-position: center;
     background-size: cover;
@@ -107,4 +119,63 @@
     transform: translateX(-50%);
   }
  
+  #story {
+
+    color: #f8f8f8;
+    border-radius: 35px;
+    width: 40px;
+    border-color: #faf7f7;
+    border-style: solid;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  /*section 2*/
+  .section2 {
+    background-image: url('assests/black.avif');
+    background-image: url('assests/breakedlayer.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 900px;
+  }
+  
+  .section2 .container {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    z-index: 1;
+  }
+  
+  .section2 h2 {
+    font-size: 3rem;
+  }
+  
+  .section2 p {
+    font-size: 1.5rem;
+  }
+  /*icon leaf*/
+  .section2 {
+    position: relative;
+  }
+  
+  .icon-container {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .icon-container img {
+    width: 100px; /* Adjust this to your liking */
+    height: 100px; /* Adjust this to your liking */
+  }
+  
+  .section2 img {
+    width: 100%;
+    height: auto;
+  }
+  
   
