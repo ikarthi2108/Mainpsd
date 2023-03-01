@@ -118,7 +118,7 @@
   left: 50%;
   transform: translateX(-50%);
 }
-
+/*page1 our story button*/
 #story {
 
   color: #f8f8f8;
@@ -132,14 +132,13 @@
 
 /*section 2*/
 .section2 {
-  background-image: url('assests/Layer\ 6\ full.png');
   background-image: url('assests/Layer\ 13.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 900px;
 }
-
+/*position of  the leaf logo and text*/
 .section2 .container {
   text-align: center;
   position: relative;
@@ -149,7 +148,7 @@
   z-index: 1;
   top:20%;
 }
-
+/*below leaf icon h and p tag*/
 .section2 h2 {
   font-size: 3rem;
 }
@@ -161,7 +160,7 @@
 .section2 {
   position: relative;
 }
-
+/*leaf icon at the center page2 */
 .icon-container {
   position: absolute;
   top: -6%;
@@ -169,30 +168,13 @@
   transform: translate(-50%, -50%);
 }
 
-.icon-container img {
-  width: 100px; /* Adjust this to your liking */
-  height: 100px; /* Adjust this to your liking */
-}
 
+/*section 2 background*/
 .section2 img {
   width: 100%;
   height: auto;
 }
-.card{
-  margin-top:-700px;
-  margin-left: 200px;
-  position: relative;
-}
-.card::after{
-  content: '';
-  inset:0;
-  z-index:1;
-  background-repeat: no-repeat;
-  background-size: contain;
-  padding: 10px;
-  margin-left:50px;
- background-image: url(assests/1sr\ bg\ circle.png);
- position: absolute;
- opacity:0.5;
-
+.leftpoints{
+  margin-left: 460px;
+  margin-top: 520px;
 }
