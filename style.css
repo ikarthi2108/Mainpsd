@@ -492,3 +492,239 @@ input[type=email]{
 
  
 /*End of page 4 styling*/
+
+
+/*page 5 */
+
+#pg5bg{
+  margin-top:500px;
+}
+
+#pg5leaf{
+  margin-top: -0px;
+  width: 60px;
+  margin-top: -3000px;
+  margin-left: 710px;
+}
+#pg5h1{
+  margin-top: -1450px;
+   margin-left: 180px;
+   font-size: 4.8rem;
+   font-family: Montserrat;
+}
+#pg5p{
+  margin-left: 410px;
+  font-size: 2.6rem;
+  font-family: Montserrat;
+}
+
+/*card1*/
+
+#card1img{
+  width: 160px;
+  margin-top: 100px;
+  margin-left: 170px;
+}
+#card1pre{
+  margin-left: 300px;
+  margin-top: -160px;
+  font-size: large;
+  font-family: Old Standard TT;
+}
+#cardhr{
+  width: 280px;
+  margin-left: 360px;
+}
+#carddate1{
+  margin-left: 310px;
+  font-family: Old Standard TT;
+}
+
+/*card2*/
+
+#card2img{
+  width: 160px;
+  margin-top: 80px;
+  margin-left: 170px;
+}
+#card2pre{
+  margin-left: 300px;
+  margin-top: -160px;
+  font-size: large;
+  font-family: Old Standard TT;
+}
+#carddate2{
+  margin-left: 310px;
+  font-family: Old Standard TT;
+}
+
+/*card3*/
+
+#card3img{
+  width: 160px;
+  margin-top: -690px;
+  margin-left: 790px;
+}
+#card3pre{
+  margin-left: 970px;
+  margin-top: -430px;
+  font-size: large;
+  font-family: Old Standard TT;
+}
+#card3hr{
+  width: 280px;
+  margin-left: 1030px;
+}
+#card3date{
+  margin-left: 980px;
+  font-family: Old Standard TT;
+}
+
+/*card4*/
+
+#card4img{
+  width: 160px;
+  margin-top: 80px;
+  margin-left: 790px;
+}
+#card4pre{
+  margin-left: 973px;
+  margin-top: -160px;
+  font-size: large;
+  font-family: Old Standard TT;
+}
+#card4date{
+  margin-left: 983px;
+  font-family: Old Standard TT;
+}
+
+/*gallery button*/
+#gallbtn{
+  margin-top: 100px;
+  margin-left: 580px;
+  font-size: 1.6rem;
+  color:  #0d0d0f;
+  border-radius: 350px;
+  background: none;
+  padding-left: 28px;
+  padding-right:28px ;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-decoration: black;
+  font-family: Montserrat;
+}
+
+/*page6*/
+
+#page6bg1{
+  margin-top:100px;
+}
+#page6bglayer{
+  margin-top: -1050px;
+}
+#pg6h2{
+  color: aliceblue;
+  font-size: 3.4rem;
+   margin-top: -920px;
+   margin-left: 200px;
+   font-family: Old Standard TT 
+}
+#pg6pre1{
+  color: azure;
+  font-size: 1.4rem;
+  margin-top: 40px;
+  margin-left: 130px;
+  font-family: Old Standard TT;
+}
+#pg6p1{
+  color: azure;
+  font-size: 1.4rem;
+  margin-left: 120px;
+  font-family: Old Standard TT;
+  margin-top: -20px;
+}
+#pg6p2{
+  color: azure;
+  margin-left: 170px;
+  font-family: Old Standard TT;
+}
+#page6span{
+  color: rgb(10, 232, 36);
+  font-family: Old Standard TT;
+}
+#pg6hh2{
+  color: azure;
+  font-family: Old Standard TT;
+  margin-left: 800px;
+  margin-top: -300px;
+}
+#pg6in{
+  padding-left: 240px;
+  padding-bottom: 100px;
+  margin-top: 7px;
+}
+
+#pg6btn{
+  margin-top: 30px;
+  margin-left: 750px;
+  font-size: 1.6rem;
+  color:  #f7f7f8;
+  border-radius: 350px;
+  border-color: #f7f7f8; 
+  background: none;
+  padding-left: 28px;
+  padding-right:28px ;
+  padding-top: 8px;
+  padding-bottom: 8px;
+   text-decoration: rgb(246, 241, 241);
+}
+
+/*footer*/
+#Fimg1{
+  margin-top: 340px;
+}
+#Fimg2{
+  width: 50px; 
+  margin-top: 30px;
+  margin-left: 60px;
+  color: azure;
+  font-family: Old Standard TT;
+}
+
+#Fa1{
+  margin-left: 880px;
+  text-decoration: none;
+  color: azure;
+  font-family: Old Standard TT;
+}
+#Fa2{
+  margin-left: 20px;
+  text-decoration: none;
+  color: azure;
+  font-family: Old Standard TT;
+}
+#Fa3{
+  margin-left: 20px;
+  text-decoration: none;
+  color: azure;
+  font-family: Old Standard TT;
+}
+#Fa4{
+  margin-left: 20px;
+  text-decoration: none;
+  color: azure;
+  font-family: Old Standard TT;
+}
+#Fa5{
+  margin-left: 20px;
+  text-decoration: none;
+  color: azure;
+  font-family: Old Standard TT;
+}
+Fp1{
+  color: azure;
+  font-family: Old Standard TT;
+  font-size: medium;
+  margin-left: 1100px;
+  margin-top: -30px;
+}
