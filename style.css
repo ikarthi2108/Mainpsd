@@ -6,7 +6,7 @@
   margin-left: 1000px;
 }
 .navbar {
-  background-image: url('assests/topbg.png');
+  background-image: url('assests/cropped\ bg.png');
   background-size: cover; /* Adjust this to your liking */
   /* background-position: center; Adjust this to your liking */
   background-color: transparent;
@@ -50,11 +50,13 @@
   font-size: 18px;
   font-style: italic;
   margin-bottom: -90px;
+  font-family: "Montserrat";
 }
 /*image and text1 */
 .image-text-container {
   position: relative;
   width: 100%;
+  font-family: "Old Standard TT";
 }
 
 .image-text-container img {
@@ -64,10 +66,10 @@
 
 .image-text-container p {
   position: relative;
-  top: -40%;
+  top: -30%;
   left: 54%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: rgb(247, 246, 246);
   font-size: 3rem;
   z-index: 1;
 }
